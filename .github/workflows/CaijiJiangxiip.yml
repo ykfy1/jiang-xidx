@@ -2,7 +2,7 @@ name: CaijiJiangxiip
 
 on:
   schedule:
-    - cron: "25 20 * * *"
+    - cron: "25 19 * * *"
   workflow_dispatch:
 
 jobs:
