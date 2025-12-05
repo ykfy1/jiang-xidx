@@ -60,4 +60,3 @@ http://ipipip/rtp/239.252.219.97:5140
 http://ipipip/rtp/239.252.219.193:5140
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="卫视高清",CCTV4欧洲
 http://ipipip/rtp/239.252.219.192:5140
-
