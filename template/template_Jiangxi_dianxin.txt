@@ -10,6 +10,8 @@ http://ipipip/rtp/239.252.220.102:5140
 http://ipipip/rtp/239.252.219.113:5140
 #EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
 http://ipipip/rtp/239.252.220.100:5140
+#EXTINF:-1 tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://live.fanmingming.com/tv/江西教育.png" group-title="卫视高清",江西教育
+http://ipipip/rtp/239.252.219.115:5140
 #EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
 http://ipipip/rtp/239.252.220.241:5140
 #EXTINF:-1 tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://live.fanmingming.com/tv/南昌新闻综合.png" group-title="卫视高清",南昌新闻综合
@@ -58,3 +60,4 @@ http://ipipip/rtp/239.252.219.97:5140
 http://ipipip/rtp/239.252.219.193:5140
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="卫视高清",CCTV4欧洲
 http://ipipip/rtp/239.252.219.192:5140
+
