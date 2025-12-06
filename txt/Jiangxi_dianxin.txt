@@ -10,6 +10,8 @@ http://111.73.227.207:8288/rtp/239.252.220.102:5140
 http://111.73.227.207:8288/rtp/239.252.219.113:5140
 #EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
 http://111.73.227.207:8288/rtp/239.252.220.100:5140
+#EXTINF:-1 tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://live.fanmingming.com/tv/江西教育.png" group-title="卫视高清",江西教育
+http://111.73.227.207:8288/rtp/239.252.219.115:5140
 #EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
 http://111.73.227.207:8288/rtp/239.252.220.241:5140
 #EXTINF:-1 tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://live.fanmingming.com/tv/南昌新闻综合.png" group-title="卫视高清",南昌新闻综合
@@ -59,6 +61,68 @@ http://111.73.227.207:8288/rtp/239.252.219.193:5140
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="卫视高清",CCTV4欧洲
 http://111.73.227.207:8288/rtp/239.252.219.192:5140
 #EXTINF:-1 tvg-id="江西都市" tvg-name="江西都市" tvg-logo="https://live.fanmingming.com/tv/江西都市.png" group-title="卫视高清",江西都市
+http://115.148.202.232:7088/rtp/239.252.220.238:5140
+#EXTINF:-1 tvg-id="江西经济生活" tvg-name="江西经济生活" tvg-logo="https://live.fanmingming.com/tv/江西经济生活.png" group-title="卫视高清",江西经济生活
+http://115.148.202.232:7088/rtp/239.252.219.173:5140
+#EXTINF:-1 tvg-id="江西影视旅游" tvg-name="江西影视旅游" tvg-logo="https://live.fanmingming.com/tv/江西影视旅游.png" group-title="卫视高清",江西影视旅游
+http://115.148.202.232:7088/rtp/239.252.220.242:5140
+#EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
+http://115.148.202.232:7088/rtp/239.252.220.102:5140
+#EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
+http://115.148.202.232:7088/rtp/239.252.219.113:5140
+#EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+http://115.148.202.232:7088/rtp/239.252.220.100:5140
+#EXTINF:-1 tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://live.fanmingming.com/tv/江西教育.png" group-title="卫视高清",江西教育
+http://115.148.202.232:7088/rtp/239.252.219.115:5140
+#EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
+http://115.148.202.232:7088/rtp/239.252.220.241:5140
+#EXTINF:-1 tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://live.fanmingming.com/tv/南昌新闻综合.png" group-title="卫视高清",南昌新闻综合
+http://115.148.202.232:7088/rtp/239.252.220.247:5140
+#EXTINF:-1 tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://live.fanmingming.com/tv/南昌都市.png" group-title="卫视高清",南昌都市
+http://115.148.202.232:7088/rtp/239.252.220.248:5140
+#EXTINF:-1 tvg-id="赣州新闻综合" tvg-name="赣州新闻综合" tvg-logo="https://live.fanmingming.com/tv/赣州新闻综合.png" group-title="卫视高清",赣州新闻综合
+http://115.148.202.232:7088/rtp/239.252.220.252:5140
+#EXTINF:-1 tvg-id="赣州教育" tvg-name="赣州教育" tvg-logo="https://live.fanmingming.com/tv/赣州教育.png" group-title="卫视高清",赣州教育
+http://115.148.202.232:7088/rtp/239.252.220.254:5140
+#EXTINF:-1 tvg-id="赣州公共" tvg-name="赣州公共" tvg-logo="https://live.fanmingming.com/tv/赣州公共.png" group-title="卫视高清",赣州公共
+http://115.148.202.232:7088/rtp/239.252.220.253:5140
+#EXTINF:-1 tvg-id="陶瓷" tvg-name="陶瓷" tvg-logo="https://live.fanmingming.com/tv/陶瓷.png" group-title="卫视高清",陶瓷
+http://115.148.202.232:7088/rtp/239.252.220.243:5140
+#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://live.fanmingming.com/tv/环球旅游.png" group-title="卫视高清",环球旅游
+http://115.148.202.232:7088/rtp/239.252.220.218:5140
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
+http://115.148.202.232:7088/rtp/239.252.220.179:5140
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="影院高清",武术世界
+http://115.148.202.232:7088/rtp/239.252.220.180:5140
+#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视高清",兵器科技
+http://115.148.202.232:7088/rtp/239.252.219.98:5140
+#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="央视高清",第一剧场
+http://115.148.202.232:7088/rtp/239.252.219.86:5140
+#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视高清",风云剧场
+http://115.148.202.232:7088/rtp/239.252.219.89:5140
+#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="央视高清",风云音乐
+http://115.148.202.232:7088/rtp/239.252.219.87:5140
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视高清",风云足球
+http://115.148.202.232:7088/rtp/239.252.219.96:5140
+#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="央视高清",高尔夫网球
+http://115.148.202.232:7088/rtp/239.252.219.95:5140
+#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视高清",怀旧剧场
+http://115.148.202.232:7088/rtp/239.252.219.90:5140
+#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="央视高清",女性时尚
+http://115.148.202.232:7088/rtp/239.252.219.94:5140
+#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央视高清",世界地理
+http://115.148.202.232:7088/rtp/239.252.219.93:5140
+#EXTINF:-1 tvg-id="央视文化精品" tvg-name="央视文化精品" tvg-logo="https://live.fanmingming.com/tv/央视文化精品.png" group-title="央视高清",央视文化精品
+http://115.148.202.232:7088/rtp/239.252.219.81:5140
+#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视高清",央视台球
+http://115.148.202.232:7088/rtp/239.252.219.80:5140
+#EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央视高清",电视指南
+http://115.148.202.232:7088/rtp/239.252.219.97:5140
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="卫视高清",CCTV4美洲
+http://115.148.202.232:7088/rtp/239.252.219.193:5140
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="卫视高清",CCTV4欧洲
+http://115.148.202.232:7088/rtp/239.252.219.192:5140
+#EXTINF:-1 tvg-id="江西都市" tvg-name="江西都市" tvg-logo="https://live.fanmingming.com/tv/江西都市.png" group-title="卫视高清",江西都市
 http://115.148.202.219:7088/rtp/239.252.220.238:5140
 #EXTINF:-1 tvg-id="江西经济生活" tvg-name="江西经济生活" tvg-logo="https://live.fanmingming.com/tv/江西经济生活.png" group-title="卫视高清",江西经济生活
 http://115.148.202.219:7088/rtp/239.252.219.173:5140
@@ -70,6 +134,8 @@ http://115.148.202.219:7088/rtp/239.252.220.102:5140
 http://115.148.202.219:7088/rtp/239.252.219.113:5140
 #EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
 http://115.148.202.219:7088/rtp/239.252.220.100:5140
+#EXTINF:-1 tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://live.fanmingming.com/tv/江西教育.png" group-title="卫视高清",江西教育
+http://115.148.202.219:7088/rtp/239.252.219.115:5140
 #EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
 http://115.148.202.219:7088/rtp/239.252.220.241:5140
 #EXTINF:-1 tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://live.fanmingming.com/tv/南昌新闻综合.png" group-title="卫视高清",南昌新闻综合
@@ -119,66 +185,6 @@ http://115.148.202.219:7088/rtp/239.252.219.193:5140
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="卫视高清",CCTV4欧洲
 http://115.148.202.219:7088/rtp/239.252.219.192:5140
 #EXTINF:-1 tvg-id="江西都市" tvg-name="江西都市" tvg-logo="https://live.fanmingming.com/tv/江西都市.png" group-title="卫视高清",江西都市
-http://115.148.202.118:7088/rtp/239.252.220.238:5140
-#EXTINF:-1 tvg-id="江西经济生活" tvg-name="江西经济生活" tvg-logo="https://live.fanmingming.com/tv/江西经济生活.png" group-title="卫视高清",江西经济生活
-http://115.148.202.118:7088/rtp/239.252.219.173:5140
-#EXTINF:-1 tvg-id="江西影视旅游" tvg-name="江西影视旅游" tvg-logo="https://live.fanmingming.com/tv/江西影视旅游.png" group-title="卫视高清",江西影视旅游
-http://115.148.202.118:7088/rtp/239.252.220.242:5140
-#EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
-http://115.148.202.118:7088/rtp/239.252.220.102:5140
-#EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
-http://115.148.202.118:7088/rtp/239.252.219.113:5140
-#EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
-http://115.148.202.118:7088/rtp/239.252.220.100:5140
-#EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
-http://115.148.202.118:7088/rtp/239.252.220.241:5140
-#EXTINF:-1 tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://live.fanmingming.com/tv/南昌新闻综合.png" group-title="卫视高清",南昌新闻综合
-http://115.148.202.118:7088/rtp/239.252.220.247:5140
-#EXTINF:-1 tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://live.fanmingming.com/tv/南昌都市.png" group-title="卫视高清",南昌都市
-http://115.148.202.118:7088/rtp/239.252.220.248:5140
-#EXTINF:-1 tvg-id="赣州新闻综合" tvg-name="赣州新闻综合" tvg-logo="https://live.fanmingming.com/tv/赣州新闻综合.png" group-title="卫视高清",赣州新闻综合
-http://115.148.202.118:7088/rtp/239.252.220.252:5140
-#EXTINF:-1 tvg-id="赣州教育" tvg-name="赣州教育" tvg-logo="https://live.fanmingming.com/tv/赣州教育.png" group-title="卫视高清",赣州教育
-http://115.148.202.118:7088/rtp/239.252.220.254:5140
-#EXTINF:-1 tvg-id="赣州公共" tvg-name="赣州公共" tvg-logo="https://live.fanmingming.com/tv/赣州公共.png" group-title="卫视高清",赣州公共
-http://115.148.202.118:7088/rtp/239.252.220.253:5140
-#EXTINF:-1 tvg-id="陶瓷" tvg-name="陶瓷" tvg-logo="https://live.fanmingming.com/tv/陶瓷.png" group-title="卫视高清",陶瓷
-http://115.148.202.118:7088/rtp/239.252.220.243:5140
-#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="https://live.fanmingming.com/tv/环球旅游.png" group-title="卫视高清",环球旅游
-http://115.148.202.118:7088/rtp/239.252.220.218:5140
-#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="影院高清",河南梨园
-http://115.148.202.118:7088/rtp/239.252.220.179:5140
-#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="影院高清",武术世界
-http://115.148.202.118:7088/rtp/239.252.220.180:5140
-#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视高清",兵器科技
-http://115.148.202.118:7088/rtp/239.252.219.98:5140
-#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="央视高清",第一剧场
-http://115.148.202.118:7088/rtp/239.252.219.86:5140
-#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视高清",风云剧场
-http://115.148.202.118:7088/rtp/239.252.219.89:5140
-#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="央视高清",风云音乐
-http://115.148.202.118:7088/rtp/239.252.219.87:5140
-#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视高清",风云足球
-http://115.148.202.118:7088/rtp/239.252.219.96:5140
-#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="央视高清",高尔夫网球
-http://115.148.202.118:7088/rtp/239.252.219.95:5140
-#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视高清",怀旧剧场
-http://115.148.202.118:7088/rtp/239.252.219.90:5140
-#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="央视高清",女性时尚
-http://115.148.202.118:7088/rtp/239.252.219.94:5140
-#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央视高清",世界地理
-http://115.148.202.118:7088/rtp/239.252.219.93:5140
-#EXTINF:-1 tvg-id="央视文化精品" tvg-name="央视文化精品" tvg-logo="https://live.fanmingming.com/tv/央视文化精品.png" group-title="央视高清",央视文化精品
-http://115.148.202.118:7088/rtp/239.252.219.81:5140
-#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视高清",央视台球
-http://115.148.202.118:7088/rtp/239.252.219.80:5140
-#EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央视高清",电视指南
-http://115.148.202.118:7088/rtp/239.252.219.97:5140
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="卫视高清",CCTV4美洲
-http://115.148.202.118:7088/rtp/239.252.219.193:5140
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="卫视高清",CCTV4欧洲
-http://115.148.202.118:7088/rtp/239.252.219.192:5140
-#EXTINF:-1 tvg-id="江西都市" tvg-name="江西都市" tvg-logo="https://live.fanmingming.com/tv/江西都市.png" group-title="卫视高清",江西都市
 http://220.176.218.238:9000/rtp/239.252.220.238:5140
 #EXTINF:-1 tvg-id="江西经济生活" tvg-name="江西经济生活" tvg-logo="https://live.fanmingming.com/tv/江西经济生活.png" group-title="卫视高清",江西经济生活
 http://220.176.218.238:9000/rtp/239.252.219.173:5140
@@ -190,6 +196,8 @@ http://220.176.218.238:9000/rtp/239.252.220.102:5140
 http://220.176.218.238:9000/rtp/239.252.219.113:5140
 #EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
 http://220.176.218.238:9000/rtp/239.252.220.100:5140
+#EXTINF:-1 tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://live.fanmingming.com/tv/江西教育.png" group-title="卫视高清",江西教育
+http://220.176.218.238:9000/rtp/239.252.219.115:5140
 #EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
 http://220.176.218.238:9000/rtp/239.252.220.241:5140
 #EXTINF:-1 tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://live.fanmingming.com/tv/南昌新闻综合.png" group-title="卫视高清",南昌新闻综合
@@ -244,6 +252,7 @@ http://220.176.218.238:9000/rtp/239.252.219.192:5140
 #EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
 #EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
 #EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+#EXTINF:-1 tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://live.fanmingming.com/tv/江西教育.png" group-title="卫视高清",江西教育
 #EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
 #EXTINF:-1 tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://live.fanmingming.com/tv/南昌新闻综合.png" group-title="卫视高清",南昌新闻综合
 #EXTINF:-1 tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://live.fanmingming.com/tv/南昌都市.png" group-title="卫视高清",南昌都市
@@ -274,6 +283,7 @@ http://220.176.218.238:9000/rtp/239.252.219.192:5140
 #EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
 #EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
 #EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+#EXTINF:-1 tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://live.fanmingming.com/tv/江西教育.png" group-title="卫视高清",江西教育
 #EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
 #EXTINF:-1 tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://live.fanmingming.com/tv/南昌新闻综合.png" group-title="卫视高清",南昌新闻综合
 #EXTINF:-1 tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://live.fanmingming.com/tv/南昌都市.png" group-title="卫视高清",南昌都市
@@ -304,6 +314,7 @@ http://220.176.218.238:9000/rtp/239.252.219.192:5140
 #EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
 #EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
 #EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+#EXTINF:-1 tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://live.fanmingming.com/tv/江西教育.png" group-title="卫视高清",江西教育
 #EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
 #EXTINF:-1 tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://live.fanmingming.com/tv/南昌新闻综合.png" group-title="卫视高清",南昌新闻综合
 #EXTINF:-1 tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://live.fanmingming.com/tv/南昌都市.png" group-title="卫视高清",南昌都市
@@ -334,6 +345,7 @@ http://220.176.218.238:9000/rtp/239.252.219.192:5140
 #EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
 #EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
 #EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+#EXTINF:-1 tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://live.fanmingming.com/tv/江西教育.png" group-title="卫视高清",江西教育
 #EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
 #EXTINF:-1 tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://live.fanmingming.com/tv/南昌新闻综合.png" group-title="卫视高清",南昌新闻综合
 #EXTINF:-1 tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://live.fanmingming.com/tv/南昌都市.png" group-title="卫视高清",南昌都市
@@ -364,6 +376,7 @@ http://220.176.218.238:9000/rtp/239.252.219.192:5140
 #EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
 #EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
 #EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+#EXTINF:-1 tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://live.fanmingming.com/tv/江西教育.png" group-title="卫视高清",江西教育
 #EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
 #EXTINF:-1 tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://live.fanmingming.com/tv/南昌新闻综合.png" group-title="卫视高清",南昌新闻综合
 #EXTINF:-1 tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://live.fanmingming.com/tv/南昌都市.png" group-title="卫视高清",南昌都市
@@ -394,6 +407,7 @@ http://220.176.218.238:9000/rtp/239.252.219.192:5140
 #EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
 #EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
 #EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+#EXTINF:-1 tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://live.fanmingming.com/tv/江西教育.png" group-title="卫视高清",江西教育
 #EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
 #EXTINF:-1 tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://live.fanmingming.com/tv/南昌新闻综合.png" group-title="卫视高清",南昌新闻综合
 #EXTINF:-1 tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://live.fanmingming.com/tv/南昌都市.png" group-title="卫视高清",南昌都市
@@ -424,6 +438,7 @@ http://220.176.218.238:9000/rtp/239.252.219.192:5140
 #EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
 #EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
 #EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+#EXTINF:-1 tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://live.fanmingming.com/tv/江西教育.png" group-title="卫视高清",江西教育
 #EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
 #EXTINF:-1 tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://live.fanmingming.com/tv/南昌新闻综合.png" group-title="卫视高清",南昌新闻综合
 #EXTINF:-1 tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://live.fanmingming.com/tv/南昌都市.png" group-title="卫视高清",南昌都市
@@ -454,6 +469,7 @@ http://220.176.218.238:9000/rtp/239.252.219.192:5140
 #EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
 #EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
 #EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+#EXTINF:-1 tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://live.fanmingming.com/tv/江西教育.png" group-title="卫视高清",江西教育
 #EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
 #EXTINF:-1 tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://live.fanmingming.com/tv/南昌新闻综合.png" group-title="卫视高清",南昌新闻综合
 #EXTINF:-1 tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://live.fanmingming.com/tv/南昌都市.png" group-title="卫视高清",南昌都市
@@ -484,6 +500,7 @@ http://220.176.218.238:9000/rtp/239.252.219.192:5140
 #EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
 #EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
 #EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+#EXTINF:-1 tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://live.fanmingming.com/tv/江西教育.png" group-title="卫视高清",江西教育
 #EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
 #EXTINF:-1 tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://live.fanmingming.com/tv/南昌新闻综合.png" group-title="卫视高清",南昌新闻综合
 #EXTINF:-1 tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://live.fanmingming.com/tv/南昌都市.png" group-title="卫视高清",南昌都市
@@ -514,6 +531,7 @@ http://220.176.218.238:9000/rtp/239.252.219.192:5140
 #EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
 #EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
 #EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+#EXTINF:-1 tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://live.fanmingming.com/tv/江西教育.png" group-title="卫视高清",江西教育
 #EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
 #EXTINF:-1 tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://live.fanmingming.com/tv/南昌新闻综合.png" group-title="卫视高清",南昌新闻综合
 #EXTINF:-1 tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://live.fanmingming.com/tv/南昌都市.png" group-title="卫视高清",南昌都市
@@ -544,6 +562,7 @@ http://220.176.218.238:9000/rtp/239.252.219.192:5140
 #EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
 #EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
 #EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+#EXTINF:-1 tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://live.fanmingming.com/tv/江西教育.png" group-title="卫视高清",江西教育
 #EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
 #EXTINF:-1 tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://live.fanmingming.com/tv/南昌新闻综合.png" group-title="卫视高清",南昌新闻综合
 #EXTINF:-1 tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://live.fanmingming.com/tv/南昌都市.png" group-title="卫视高清",南昌都市
@@ -574,6 +593,7 @@ http://220.176.218.238:9000/rtp/239.252.219.192:5140
 #EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
 #EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
 #EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+#EXTINF:-1 tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://live.fanmingming.com/tv/江西教育.png" group-title="卫视高清",江西教育
 #EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
 #EXTINF:-1 tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://live.fanmingming.com/tv/南昌新闻综合.png" group-title="卫视高清",南昌新闻综合
 #EXTINF:-1 tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://live.fanmingming.com/tv/南昌都市.png" group-title="卫视高清",南昌都市
@@ -604,6 +624,7 @@ http://220.176.218.238:9000/rtp/239.252.219.192:5140
 #EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
 #EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
 #EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+#EXTINF:-1 tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://live.fanmingming.com/tv/江西教育.png" group-title="卫视高清",江西教育
 #EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
 #EXTINF:-1 tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://live.fanmingming.com/tv/南昌新闻综合.png" group-title="卫视高清",南昌新闻综合
 #EXTINF:-1 tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://live.fanmingming.com/tv/南昌都市.png" group-title="卫视高清",南昌都市
@@ -634,6 +655,7 @@ http://220.176.218.238:9000/rtp/239.252.219.192:5140
 #EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
 #EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
 #EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+#EXTINF:-1 tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://live.fanmingming.com/tv/江西教育.png" group-title="卫视高清",江西教育
 #EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
 #EXTINF:-1 tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://live.fanmingming.com/tv/南昌新闻综合.png" group-title="卫视高清",南昌新闻综合
 #EXTINF:-1 tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://live.fanmingming.com/tv/南昌都市.png" group-title="卫视高清",南昌都市
@@ -664,6 +686,7 @@ http://220.176.218.238:9000/rtp/239.252.219.192:5140
 #EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
 #EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
 #EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+#EXTINF:-1 tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://live.fanmingming.com/tv/江西教育.png" group-title="卫视高清",江西教育
 #EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
 #EXTINF:-1 tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://live.fanmingming.com/tv/南昌新闻综合.png" group-title="卫视高清",南昌新闻综合
 #EXTINF:-1 tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://live.fanmingming.com/tv/南昌都市.png" group-title="卫视高清",南昌都市
@@ -694,6 +717,7 @@ http://220.176.218.238:9000/rtp/239.252.219.192:5140
 #EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
 #EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
 #EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+#EXTINF:-1 tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://live.fanmingming.com/tv/江西教育.png" group-title="卫视高清",江西教育
 #EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
 #EXTINF:-1 tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://live.fanmingming.com/tv/南昌新闻综合.png" group-title="卫视高清",南昌新闻综合
 #EXTINF:-1 tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://live.fanmingming.com/tv/南昌都市.png" group-title="卫视高清",南昌都市
@@ -724,6 +748,7 @@ http://220.176.218.238:9000/rtp/239.252.219.192:5140
 #EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
 #EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
 #EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+#EXTINF:-1 tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://live.fanmingming.com/tv/江西教育.png" group-title="卫视高清",江西教育
 #EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
 #EXTINF:-1 tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://live.fanmingming.com/tv/南昌新闻综合.png" group-title="卫视高清",南昌新闻综合
 #EXTINF:-1 tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://live.fanmingming.com/tv/南昌都市.png" group-title="卫视高清",南昌都市
@@ -754,6 +779,7 @@ http://220.176.218.238:9000/rtp/239.252.219.192:5140
 #EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
 #EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
 #EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+#EXTINF:-1 tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://live.fanmingming.com/tv/江西教育.png" group-title="卫视高清",江西教育
 #EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
 #EXTINF:-1 tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://live.fanmingming.com/tv/南昌新闻综合.png" group-title="卫视高清",南昌新闻综合
 #EXTINF:-1 tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://live.fanmingming.com/tv/南昌都市.png" group-title="卫视高清",南昌都市
@@ -784,6 +810,7 @@ http://220.176.218.238:9000/rtp/239.252.219.192:5140
 #EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
 #EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
 #EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+#EXTINF:-1 tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://live.fanmingming.com/tv/江西教育.png" group-title="卫视高清",江西教育
 #EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
 #EXTINF:-1 tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://live.fanmingming.com/tv/南昌新闻综合.png" group-title="卫视高清",南昌新闻综合
 #EXTINF:-1 tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://live.fanmingming.com/tv/南昌都市.png" group-title="卫视高清",南昌都市
@@ -814,6 +841,7 @@ http://220.176.218.238:9000/rtp/239.252.219.192:5140
 #EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
 #EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
 #EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+#EXTINF:-1 tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://live.fanmingming.com/tv/江西教育.png" group-title="卫视高清",江西教育
 #EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
 #EXTINF:-1 tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://live.fanmingming.com/tv/南昌新闻综合.png" group-title="卫视高清",南昌新闻综合
 #EXTINF:-1 tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://live.fanmingming.com/tv/南昌都市.png" group-title="卫视高清",南昌都市
@@ -844,6 +872,7 @@ http://220.176.218.238:9000/rtp/239.252.219.192:5140
 #EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
 #EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
 #EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+#EXTINF:-1 tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://live.fanmingming.com/tv/江西教育.png" group-title="卫视高清",江西教育
 #EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
 #EXTINF:-1 tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://live.fanmingming.com/tv/南昌新闻综合.png" group-title="卫视高清",南昌新闻综合
 #EXTINF:-1 tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://live.fanmingming.com/tv/南昌都市.png" group-title="卫视高清",南昌都市
@@ -874,6 +903,7 @@ http://220.176.218.238:9000/rtp/239.252.219.192:5140
 #EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
 #EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
 #EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+#EXTINF:-1 tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://live.fanmingming.com/tv/江西教育.png" group-title="卫视高清",江西教育
 #EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
 #EXTINF:-1 tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://live.fanmingming.com/tv/南昌新闻综合.png" group-title="卫视高清",南昌新闻综合
 #EXTINF:-1 tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://live.fanmingming.com/tv/南昌都市.png" group-title="卫视高清",南昌都市
@@ -904,6 +934,7 @@ http://220.176.218.238:9000/rtp/239.252.219.192:5140
 #EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
 #EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
 #EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+#EXTINF:-1 tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://live.fanmingming.com/tv/江西教育.png" group-title="卫视高清",江西教育
 #EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
 #EXTINF:-1 tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://live.fanmingming.com/tv/南昌新闻综合.png" group-title="卫视高清",南昌新闻综合
 #EXTINF:-1 tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://live.fanmingming.com/tv/南昌都市.png" group-title="卫视高清",南昌都市
@@ -934,6 +965,7 @@ http://220.176.218.238:9000/rtp/239.252.219.192:5140
 #EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
 #EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
 #EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+#EXTINF:-1 tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://live.fanmingming.com/tv/江西教育.png" group-title="卫视高清",江西教育
 #EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
 #EXTINF:-1 tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://live.fanmingming.com/tv/南昌新闻综合.png" group-title="卫视高清",南昌新闻综合
 #EXTINF:-1 tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://live.fanmingming.com/tv/南昌都市.png" group-title="卫视高清",南昌都市
@@ -964,6 +996,7 @@ http://220.176.218.238:9000/rtp/239.252.219.192:5140
 #EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
 #EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
 #EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+#EXTINF:-1 tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://live.fanmingming.com/tv/江西教育.png" group-title="卫视高清",江西教育
 #EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
 #EXTINF:-1 tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://live.fanmingming.com/tv/南昌新闻综合.png" group-title="卫视高清",南昌新闻综合
 #EXTINF:-1 tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://live.fanmingming.com/tv/南昌都市.png" group-title="卫视高清",南昌都市
@@ -994,6 +1027,7 @@ http://220.176.218.238:9000/rtp/239.252.219.192:5140
 #EXTINF:-1 tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://live.fanmingming.com/tv/江西公共农业.png" group-title="卫视高清",江西公共农业
 #EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://live.fanmingming.com/tv/江西少儿.png" group-title="卫视高清",江西少儿
 #EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://live.fanmingming.com/tv/江西新闻.png" group-title="卫视高清",江西新闻
+#EXTINF:-1 tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://live.fanmingming.com/tv/江西教育.png" group-title="卫视高清",江西教育
 #EXTINF:-1 tvg-id="江西移动" tvg-name="江西移动" tvg-logo="https://live.fanmingming.com/tv/江西移动.png" group-title="卫视高清",江西移动
 #EXTINF:-1 tvg-id="南昌新闻综合" tvg-name="南昌新闻综合" tvg-logo="https://live.fanmingming.com/tv/南昌新闻综合.png" group-title="卫视高清",南昌新闻综合
 #EXTINF:-1 tvg-id="南昌都市" tvg-name="南昌都市" tvg-logo="https://live.fanmingming.com/tv/南昌都市.png" group-title="卫视高清",南昌都市
